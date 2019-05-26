@@ -174,14 +174,24 @@ SECTION WRAPS
   background-size: cover;
 }
 
-#headerwrap h1 {
+#about h1 {
   font-size: 80px;
   color: white;
 }
 
-#headerwrap h3 {
+#about h3 {
   font-size: 20px;
   color: white;
+}
+
+#about img {
+   width: 100%;
+   height: 100%;
+}
+
+.description-padding {
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 /* Intnro Wrap */
