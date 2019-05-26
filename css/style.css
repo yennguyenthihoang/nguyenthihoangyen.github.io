@@ -27,7 +27,6 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   line-height: 28px;
-  margin-bottom: 25px;
 }
 
 .centered {
@@ -199,7 +198,6 @@ SECTION WRAPS
 #intro {
   background: #2c3e50;
   padding-top: 60px;
-  padding-bottom: 60px;
   color: white;
 }
 
@@ -269,7 +267,7 @@ SECTION WRAPS
 /* Global Values */
 
 .desc {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .desc p {
